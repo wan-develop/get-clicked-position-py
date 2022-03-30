@@ -7,7 +7,7 @@
 
 ## How to use this class
  
- > This class is easy to use, you just need to specify list of positions you want to use
+ > This class is easy to use, you just need to specify the list of positions name you want to use
  
  ### Import
  ```
