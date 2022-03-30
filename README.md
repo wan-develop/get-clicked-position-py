@@ -14,16 +14,18 @@
  from getclicks import GetClicks
  ```
  
- ###Exemple:
+ ### Exemple:
  ```
  my_positions: list = ["text_input", "confirm_button", "ok_button", "exit_button"]
  
  getclicks = GetClicks(clicks= my_positions, file_name="my_positions")
  
  ```
- ### Activation:
+ ### Generating the json:
  
- `getclicks.init()`
+ ```
+ getclicks.init()
+ ```
  
  ### Then:
  > This init method will create a `json` file in the class directory, you can change the default directory:
